@@ -120,8 +120,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 db_from_env = dj_database_url.config(conn_max_age=500)
-SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PHOTO','https')
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PHOTO', 'https')
 
 ALLOWED_HOSTS = ['*']
 
-STATIC_ROOT = os.path.join(PROJECT_ROOT,'staticfiles')
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
