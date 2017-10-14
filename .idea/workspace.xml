@@ -155,7 +155,6 @@
         <option value="$PROJECT_DIR$/djangoecommerce/Procfile" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/http/cookies.py" />
         <option value="$PROJECT_DIR$/core/Templates/product_list.html" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/core/Templates/index.html" />
         <option value="$PROJECT_DIR$/core/models.py" />
@@ -184,6 +183,7 @@
         <option value="$PROJECT_DIR$/djangoecommerce/settings.py" />
         <option value="$PROJECT_DIR$/djangoecommerce/local_settings.py" />
         <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
