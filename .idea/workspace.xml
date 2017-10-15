@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="153f781e-b6f1-4031-81e4-5265e15fe9c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangoecommerce/settings.py" afterPath="$PROJECT_DIR$/djangoecommerce/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,13 +102,13 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="444" column="16" lean-forward="false" selection-start-line="444" selection-start-column="16" selection-end-line="444" selection-end-column="16" />
+            <state relative-caret-position="102">
+              <caret line="443" column="16" lean-forward="false" selection-start-line="443" selection-start-column="16" selection-end-line="443" selection-end-column="16" />
               <folding>
-                <marker date="1508081332386" expanded="true" signature="48379:48421" ph="..." />
-                <marker date="1508081332386" expanded="true" signature="48379:48439" ph="..." />
-                <marker date="1508081332386" expanded="true" signature="48379:48452" ph="..." />
-                <marker date="1508081332386" expanded="true" signature="48379:48467" ph="..." />
+                <marker date="1508081572916" expanded="true" signature="48233:48275" ph="..." />
+                <marker date="1508081572916" expanded="true" signature="48233:48293" ph="..." />
+                <marker date="1508081572916" expanded="true" signature="48233:48306" ph="..." />
+                <marker date="1508081572916" expanded="true" signature="48233:48321" ph="..." />
               </folding>
             </state>
           </provider>
@@ -761,13 +760,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="444" column="16" lean-forward="false" selection-start-line="444" selection-start-column="16" selection-end-line="444" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="443" column="16" lean-forward="false" selection-start-line="443" selection-start-column="16" selection-end-line="443" selection-end-column="16" />
           <folding>
-            <marker date="1508081332386" expanded="true" signature="48379:48421" ph="..." />
-            <marker date="1508081332386" expanded="true" signature="48379:48439" ph="..." />
-            <marker date="1508081332386" expanded="true" signature="48379:48452" ph="..." />
-            <marker date="1508081332386" expanded="true" signature="48379:48467" ph="..." />
+            <marker date="1508081572916" expanded="true" signature="48233:48275" ph="..." />
+            <marker date="1508081572916" expanded="true" signature="48233:48293" ph="..." />
+            <marker date="1508081572916" expanded="true" signature="48233:48306" ph="..." />
+            <marker date="1508081572916" expanded="true" signature="48233:48321" ph="..." />
           </folding>
         </state>
       </provider>
