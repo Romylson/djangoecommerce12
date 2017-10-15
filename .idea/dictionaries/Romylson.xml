@@ -1,8 +1,10 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Romylson">
     <words>
+      <w>catalogo</w>
       <w>clickjacking</w>
       <w>djangoecommerce</w>
+      <w>gunicorn</w>
       <w>whitenoise</w>
     </words>
   </dictionary>
