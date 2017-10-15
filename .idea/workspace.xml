@@ -105,10 +105,10 @@
             <state relative-caret-position="102">
               <caret line="443" column="16" lean-forward="false" selection-start-line="443" selection-start-column="16" selection-end-line="443" selection-end-column="16" />
               <folding>
-                <marker date="1508081572916" expanded="true" signature="48233:48275" ph="..." />
-                <marker date="1508081572916" expanded="true" signature="48233:48293" ph="..." />
-                <marker date="1508081572916" expanded="true" signature="48233:48306" ph="..." />
-                <marker date="1508081572916" expanded="true" signature="48233:48321" ph="..." />
+                <marker date="1508085827681" expanded="true" signature="48233:48275" ph="..." />
+                <marker date="1508085827681" expanded="true" signature="48233:48293" ph="..." />
+                <marker date="1508085827681" expanded="true" signature="48233:48306" ph="..." />
+                <marker date="1508085827681" expanded="true" signature="48233:48321" ph="..." />
               </folding>
             </state>
           </provider>
@@ -379,7 +379,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36348686" sideWeight="0.49546143" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.79605263" sideWeight="0.49319214" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.80263156" sideWeight="0.49319214" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -763,10 +763,10 @@
         <state relative-caret-position="102">
           <caret line="443" column="16" lean-forward="false" selection-start-line="443" selection-start-column="16" selection-end-line="443" selection-end-column="16" />
           <folding>
-            <marker date="1508081572916" expanded="true" signature="48233:48275" ph="..." />
-            <marker date="1508081572916" expanded="true" signature="48233:48293" ph="..." />
-            <marker date="1508081572916" expanded="true" signature="48233:48306" ph="..." />
-            <marker date="1508081572916" expanded="true" signature="48233:48321" ph="..." />
+            <marker date="1508085827681" expanded="true" signature="48233:48275" ph="..." />
+            <marker date="1508085827681" expanded="true" signature="48233:48293" ph="..." />
+            <marker date="1508085827681" expanded="true" signature="48233:48306" ph="..." />
+            <marker date="1508085827681" expanded="true" signature="48233:48321" ph="..." />
           </folding>
         </state>
       </provider>
